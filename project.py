@@ -1,6 +1,7 @@
 import requests
 import re
 
+print("code started")
 response = requests.get('https://inrdeals.com/dealer/lakme-cosmetic/tamil-nadu/lakme-showroom-in-chennai')
 
 while True:
